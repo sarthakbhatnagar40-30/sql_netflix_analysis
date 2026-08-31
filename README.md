@@ -60,7 +60,7 @@ common ratings provide an understanding of the content's target audience.
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
 
-## Authors
+## Author
 
 - [@sarthakbhatnagar40-30](https://github.com/sarthakbhatnagar40-30)
 
