@@ -2,6 +2,7 @@
 
 This project explores the Netflix dataset by solving 15 real-world business problems using SQL queries.
 
+![Netflix](Dataset/netflix_logo.png)
 
 ## Overview
 
@@ -33,7 +34,7 @@ This project uses [Netflix Movies and TV Shows Dataset on Kaggle](https://www.ka
 ---
 9. Count the number of content items in each genre
 ---
-10.Find each year and the average numbers of content release in India on netflix. 
+10. Find each year and the average numbers of content release in India on netflix. 
 return top 5 year with highest avg content release!
 
 ---
